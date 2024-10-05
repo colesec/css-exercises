@@ -1,0 +1,19 @@
+.c1,.c2 {
+    background-color: pink;
+    font-family: 'Arial', serif;
+}
+
+.c2{
+    font-size: 35px;
+}
+
+#id1{
+    color: blue;
+    font-size: 45px;
+}
+
+#id2 {
+    background-color: green;
+    font-weight:1000;
+    font-size: 30px;
+}
